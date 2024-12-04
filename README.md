@@ -1,11 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jaset Tueros</h1>
-<h3 align="center">Estudiante del 8 ciclo de la carrera Ingeniera de Sistemas e Informatica</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+<h3 align="center">Estudiante de la carrera Ingeniera de Sistemas e Informatica</h3>
 
 <br>
 
@@ -23,9 +17,6 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/jaset-tueros-aa8682271/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="jasettueros@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 </p>
 
